@@ -14,7 +14,7 @@ I am Diyorbek Alikuziev python backend developer
 
 ### Best frameworks and main Libs for Python3:
 | Pytorch | Selenium | Numpy | Pandas | Matplotlib | OpenCV |
-|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/dalikuziev/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/dalikuziev/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/dalikuziev/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/dalikuziev/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/dalikuziev/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/dalikuziev/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
 
 ### It's not technology, but I use it. The section will be changed soon.:
