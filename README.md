@@ -8,5 +8,5 @@ I am Diyorbek Alikuziev python backend developer
 ---
 
 <p align="center">
- <img width="10" src="snake.svg" alt="snake"/>
+ <img width="100" src="snake.svg" alt="snake"/>
 </p>
