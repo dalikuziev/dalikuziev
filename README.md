@@ -10,3 +10,7 @@ I am Diyorbek Alikuziev python backend developer
 <p align="center">
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
+
+<p align="center">
+ <img width="100" src="snake.svg" alt="snake"/>
+</p>
