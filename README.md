@@ -1,5 +1,6 @@
 ### About me
-My name is Diyorbek, I am a python backend developer. I am a professional in creating telegram bots and websites.
+My name is Diyorbek Alikuziev, I am a python backend developer. I am a professional in creating telegram bots and websites.
+
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/dalikuziev)
 
 ---
