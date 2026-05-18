@@ -1,6 +1,4 @@
 ### I am Diyorbek Alikuziev python backend developer
-
-### Me:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/dalikuziev)
 
 ---
