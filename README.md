@@ -1,8 +1,6 @@
-### About Me: 
+### I am Diyorbek Alikuziev python backend developer
 
-I am Diyorbek Alikuziev python backend developer
-
-### How to reach me :mailbox:
+### Me:
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/dalikuziev)
 
 ---
